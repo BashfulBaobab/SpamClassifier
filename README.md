@@ -23,4 +23,4 @@ Project is complete. I may come back at some point to tinker with it some more.
 
 
 ## Contact
-Created by [Akshat Johari](https://www.linkedin.com/in/akshat-johari)) - feel free to contact me!
+Created by [Akshat Johari](https://www.linkedin.com/in/akshat-johari) - feel free to contact me!
